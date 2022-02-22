@@ -1,0 +1,537 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Man in paradise, or, A philosophical discourse vindicating the soul's prerogative in discerning the truths of Christian religion with the eye of reason</title>
+            <author>Bunworth, Richard.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1656</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 69 KB of XML-encoded text transcribed from 53 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A30114</idno>
+            <idno type="STC">Wing B5475</idno>
+            <idno type="STC">ESTC R176545</idno>
+            <idno type="EEBO-CITATION">16963578</idno>
+            <idno type="OCLC">ocm 16963578</idno>
+            <idno type="VID">105501</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A30114)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 105501)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1610:29)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Man in paradise, or, A philosophical discourse vindicating the soul's prerogative in discerning the truths of Christian religion with the eye of reason</title>
+                  <author>Bunworth, Richard.</author>
+               </titleStmt>
+               <extent>[2], 90, [7] p.   </extent>
+               <publicationStmt>
+                  <publisher>By James Cottrel,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>[1656]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Bunworth by Wing.</note>
+                  <note>Errata: p. [7]</note>
+                  <note>Imperfect: print show-through, with some loss of print.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Faith and reason.</term>
+               <term>Truth --  Religious aspects --  Christianity.</term>
+               <term>Apologetics --  Early works to 1800.</term>
+               <term>Apologetics --  History --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-04</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2013-04</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:105501:1" rendition="simple:additions"/>
+            <p>
+               <hi>Man in Paradiſe:</hi> OR, A Philoſophical Diſcourſe vindicating The Soul's Prerogative in diſcerning the TRUTHS OF CHRISTIAN RELIGION with the EYE of REASON.</p>
+            <p>Printed at <hi>London</hi> by <hi>James Cottrel.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:105501:2"/>
+            <pb n="1" facs="tcp:105501:2"/>
+            <head>Man in Paradiſe.</head>
+            <p>
+               <seg rend="decorInit">S</seg>Uch is the ex<g ref="char:EOLhyphen"/>cellency and original of Man's Soul, brooded and hatched by the all-enlivening breath of God, faſhioned by Divine artifice after the Idea and moſt perfect exemplar, co<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ceived firſt in the minde of God, whoſe architype it doth faithfully reſemble: ſuch, I ſay, is its excellency and noble extraction, that the contemplation hereof
+<pb n="2" facs="tcp:105501:3"/> cannot chuſe but heighten our ſerious thoughts into admiration, and tranſlate the conſiderate minde into an extaſie. For whatſoe<g ref="char:EOLhyphen"/>ver excellencies the Great Monarch of Heaven and Earth hath ſcattered and diffuſed amongſt the lower ſpecies and degrees of creatures; all theſe hath he concentred, collected, and moulden together in mans Soul; that by union, whoſe property it is alwayes to add virtue and efficacy to the things united, they might become more perfect here, then in the creatures ſingly, and, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, ſuper-excellent.</p>
+            <p>The natural abilities, which are the meaneſt of the Souls endowments, and
+<pb n="3" facs="tcp:105501:3"/> as it were, the dregs of all the reſt, what luſtre and ſplendor do they ſhew in their ſweet harmony, order, diſpoſition, and ſufficiency to attain the end for which they were beſtow<g ref="char:EOLhyphen"/>ed?</p>
+            <p>No ſooner hath the Em<g ref="char:EOLhyphen"/>bryon all its parts and Or<g ref="char:EOLhyphen"/>gans woven of fine ſperma<g ref="char:EOLhyphen"/>tical threeds, by the indu<g ref="char:EOLhyphen"/>ſtry of the plaſtick or forma<g ref="char:EOLhyphen"/>tive virtue, but it receives from this divine particle of Air, <hi>vim nutritivam,</hi> a nu<g ref="char:EOLhyphen"/>tritive faculty, to maintain the ſubſtance then begun: <hi>vim auctricem,</hi> an augmen<g ref="char:EOLhyphen"/>tative power, to encreaſe and bring it to a juſt quan<g ref="char:EOLhyphen"/>tity and bulk, that the Pa<g ref="char:EOLhyphen"/>lace wherein this noble Prince, the Soul, is to re<g ref="char:EOLhyphen"/>ſide,
+<pb n="4" facs="tcp:105501:4"/> may be compleatly built, and furniſhed with neceſſaries fit to entertain ſo great a Majeſty.</p>
+            <p>Theſe powers have other ſubordinate faculties, as careful and thrifty Hand-maids, waiting upon them; wherein you may ſee the oeconomy of a well-order<g ref="char:EOLhyphen"/>ed houſe. There is an at<g ref="char:EOLhyphen"/>tractive faculty, as a hand, to pull nouriſhment in; and a retentive, to keep careful<g ref="char:EOLhyphen"/>ly what is gotten. A con<g ref="char:EOLhyphen"/>coctive, to fit and prepare what is ſo retained, for the uſe of the whole body; which concoctive hath alſo a diſtributive faculty, as an<g ref="char:EOLhyphen"/>other ſubordinate Hand<g ref="char:EOLhyphen"/>maid under her, whereby there is performed a juſt <hi>anadoſis,</hi> or diſtribution of
+<pb n="5" facs="tcp:105501:4"/> matter to each ſeveral part according to its particular exigency. And under all theſe, there is an expulſive faculty, which ſerves as a drudge to carry out of the body the feculent part, or <hi>caput mortum,</hi> wherein there is no convenient chyle remaining; as alſo, to make way for new mat<g ref="char:EOLhyphen"/>ter to be contained, and then concocted, as was the former.</p>
+            <p>Thus have we that pat<g ref="char:EOLhyphen"/>tern and Idea which all well-ordered Families, and well-compoſed Common<g ref="char:EOLhyphen"/>wealths do imitate and fol<g ref="char:EOLhyphen"/>low.</p>
+            <p>Yet notwithſtanding, the fabrick of man thus kept, would in time decay, and the ſpecies utterly periſh,
+<pb n="6" facs="tcp:105501:5"/> unleſs to prevent this, a ge<g ref="char:EOLhyphen"/>nerative power were alſo implanted in him. In this the Philoſopher acknow<g ref="char:EOLhyphen"/>ledgeth, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, a Spice of Divinity; in emulation of whoſe eternal continuance, Nature, whoſe ſtrength cannot maintain a ſolitary <hi>individuum</hi> to eternity, by this help preſerveth the ſpecifical unity, and ſo com<g ref="char:EOLhyphen"/>pleateth her deſire.</p>
+            <p>Here I would ask, With what curious Pencil this plaſtick power draws forth the lineaments &amp; features of that body whoſe ſtru<g ref="char:EOLhyphen"/>cture drew the Pſalmiſt into ſuch admiration? <hi>Wonderful haſt thou made me behind and before.</hi> With whom doth it conſult, to aſſign a due ſta<g ref="char:EOLhyphen"/>tion and place for every
+<pb n="7" facs="tcp:105501:5"/> member, leaving no chaſme or gap unfilled, and ſuper<g ref="char:EOLhyphen"/>adding nothing ſuperfluous or in vain? what <hi>Euclide</hi> or Maſter-Geometrician doth it ask counſel of, to give a fit proportion, a juſt dimenſion, and perfect Fi<g ref="char:EOLhyphen"/>gure to every part? by what Arithmetick doth it count the number of the parts, and then by certain para<g ref="char:EOLhyphen"/>lelliſms of extuberances be<g ref="char:EOLhyphen"/>hinde and before, doth ſo counterpoiſe the whole body, that the countenance of man, and onely man, may be erected towards Heaven, there to behold his image as in a glaſs; whilſt all other Creatures look prone upon the Earth, out of which their earthy ſouls were firſt extracted?</p>
+            <q>
+               <pb n="8" facs="tcp:105501:6"/>
+               <p>Prona<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> cum ſpectent anima<g ref="char:EOLhyphen"/>lia caetera terram,</p>
+               <p>Os homini ſublime dedit: ca<g ref="char:EOLhyphen"/>lum<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> tueri</p>
+               <p>Juſſit, &amp; erectos ad ſidera tollere vultus.</p>
+            </q>
+            <p>The ſenſitive faculties are ſublimed to a higher pitch, and may elevate our minds to a higher degree of ad<g ref="char:EOLhyphen"/>miration. Who cannot but wonder at the ſwiftneſs of the ſenſible ſpecies poſting with all ſpeed to the ſenſe, and the quickneſs and rea<g ref="char:EOLhyphen"/>dineſs of the ſenſe to re<g ref="char:EOLhyphen"/>ceive it? here you may ſee a vaſt mountain in a mo<g ref="char:EOLhyphen"/>ment of time, contracted into a ſmall model, and dwelling in an angle and corner of the eye. Who
+<pb n="9" facs="tcp:105501:6"/> cannot but admire the faithfulneſs of the ſenſitive Organs? who no ſooner receive, but tranſmit their reſpective ſpecies, ſending them immediately to the common ſenſe, as into ſome Common-councel-houſe, where the buſie imaginati<g ref="char:EOLhyphen"/>on, by ſpelling, joyning, and compounding them to<g ref="char:EOLhyphen"/>gether, reads a Lecture to the appetite to prove its aſ<g ref="char:EOLhyphen"/>ſent or diſſent, whilſt o<g ref="char:EOLhyphen"/>ther ſpecies are command<g ref="char:EOLhyphen"/>ed to their Cells, and re<g ref="char:EOLhyphen"/>ſerv'd in the ſtore-houſe of memory till need require them? Look back, and you may ſee the pellucid coats wherewith the eyes are co<g ref="char:EOLhyphen"/>vered, the clear waters wherewith they are be<g ref="char:EOLhyphen"/>dew'd, the winding laby<g ref="char:EOLhyphen"/>rinth
+<pb n="10" facs="tcp:105501:7"/> wherein the ſound received into the ear muſt wander, till, beating upon that drum-like membrain which through the ingenite Air propagates the conti<g ref="char:EOLhyphen"/>nued ſound, the ſenſe, by a <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, interceding, is married to the object: look forward, and you ſhall ſee the appetite no ſooner a<g ref="char:EOLhyphen"/>waked, but the locomotive faculty, a moſt obedient ſervant, puts the decree in execution; earneſtly pro<g ref="char:EOLhyphen"/>ſecuting that good, or fly<g ref="char:EOLhyphen"/>ing that evil, which the af<g ref="char:EOLhyphen"/>fection for that time pre<g ref="char:EOLhyphen"/>ſident ſhall diſpoſe unto. In the mean time the paſ<g ref="char:EOLhyphen"/>ſions, as love, joy, hope, anger, fear, grief, <hi>&amp;c.</hi> as Hand-maids, are ſubſervi<g ref="char:EOLhyphen"/>ent, according as they are
+<pb n="11" facs="tcp:105501:7"/> reſpectively concerned in the object apprehended, whether good or evil, paſt, preſent, or to come. In this ſweet agreement, we may compare man's Soul to an artificial Lu<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e, and theſe to be the ſtrings of it, upon which it playes ſuch raviſhing Tunes, as would drive the conſide<g ref="char:EOLhyphen"/>rate ear to an aſtoniſhment or plain extaſie. <hi>Anima crea<g ref="char:EOLhyphen"/>turarum inferiorum compen<g ref="char:EOLhyphen"/>dium: centrum in quod omnes perfectionu<g ref="char:cmbAbbrStroke">̄</g> lineae concurrunt: ſpeculum in quo ſuam quae<g ref="char:EOLhyphen"/>que creatura faciem, ſed lon<g ref="char:EOLhyphen"/>gè pulchriorem, contempletur: eccho mirabilis, quae ſolitarias nudaſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> voces a creaturis, aliis ſigillatim expreſſas, multipli<g ref="char:EOLhyphen"/>cato &amp; ſuaviori ſono refert.</hi> The Soul is an abſtract of
+<pb n="12" facs="tcp:105501:8"/> inferiour creatures: a cen<g ref="char:EOLhyphen"/>tre wherein all the lines of perfections meet: a glaſs wherein each creature may behold its face, but much fairer: an admirable eccho which carries back the na<g ref="char:EOLhyphen"/>ked and ſolitary voices of other creatures, by them ſingly expreſs'd, in a mul<g ref="char:EOLhyphen"/>tiplied and ſweeter ſound.</p>
+            <p>But what are all theſe, compared with the rational powers of the Soul? what is the ſenſe, which traffiques onely with groſs bodies, and quailities from thence emergent, compared with reaſon, by which the Soul negotiates with Angels and immateriate beings, and by metaphyſical and and abſtruſe notions, wings it ſelf up into the arms of
+<pb n="13" facs="tcp:105501:8"/> him who breath'd it firſt into the body of man?</p>
+            <p>In this upper room and higher loft of the Soul's re<g ref="char:EOLhyphen"/>ſidence, we may contem<g ref="char:EOLhyphen"/>plate the Soul, as a Mo<g ref="char:EOLhyphen"/>narch, wiſely reſtraining or giving liberty to the miſ<g ref="char:EOLhyphen"/>underſtanding affections according to the rule of right reaſon. Here have we man ruling in man, dreſſing and cultivating man, as another Paradiſe, wherein is all poſſible va<g ref="char:EOLhyphen"/>riety, yet no confuſion, no ataxy or diſorder, no paſ<g ref="char:EOLhyphen"/>ſions contradicting one a<g ref="char:EOLhyphen"/>nother, or tyrannizing o<g ref="char:EOLhyphen"/>ver reaſon; no diſturbance of minde, no diſtemper of body, but a moſt admirable harmony of all things in the whole univerſe of man.</p>
+            <pb n="14" facs="tcp:105501:9"/>
+            <p>Reaſon is that Sceptre whereby the Soul doth rule without tyranny, the will and affections. Reaſon is that rod wherewith the Soul is kept in awe to obey without ſervile fear, the great Monarch of Heaven and Earth.</p>
+            <p>By reaſon, the Soul diſ<g ref="char:EOLhyphen"/>cerns that there is a God; drawing one Argument from the Creation of the World, which either did exiſt of it ſelf, or was pro<g ref="char:EOLhyphen"/>duced by another: but it could not give a being to it ſelf, ſeeing that it is re<g ref="char:EOLhyphen"/>pugnant that any thing ſhould be the cauſe of it ſelf. Therefore the conſe<g ref="char:EOLhyphen"/>quence is neceſſary, that the World was made by a<g ref="char:EOLhyphen"/>nother; and; ſuch another,
+<pb n="15" facs="tcp:105501:9"/> as was the efficient cauſe thereof; not produced by any other former efficient cauſe, but was of himſelf, and by himſelf from eterni<g ref="char:EOLhyphen"/>ty: which can be no other but God.</p>
+            <p>Another Argument the Soul: draws from the neceſ<g ref="char:EOLhyphen"/>ſary dependence of a finite being upon an infinite: for every thing in the World is finite, both in reſpect of its eſſence and efficacy. Now every thing that is fi<g ref="char:EOLhyphen"/>nite muſt neceſſarily be li<g ref="char:EOLhyphen"/>mited by another, ſeeing it is impoſſible that any thing ſhould give bounds to it ſelf: and there being not in things finite a pro<g ref="char:EOLhyphen"/>greſs to infinity, we muſt at length come to ſome certain being which is not
+<pb n="16" facs="tcp:105501:10"/> limited by another, but is of it ſelf eſſentially and virtually infinite: which can be no other but God.</p>
+            <p>A third Demonſtration is taken from the neceſſary dependence of a ſecondary cauſe upon a firſt: for unleſs we do here alſo grant a progreſs to infini<g ref="char:EOLhyphen"/>ty, which is abſurd; in aſ<g ref="char:EOLhyphen"/>cending the ſcale of ſub<g ref="char:EOLhyphen"/>ordination of cauſes, we muſt at length meet with one primary both efficient and final cauſe, having no other cauſe ſuperiour or before it; which is only God.</p>
+            <p>A fourth Demonſtration is taken from the neceſſary dependance of a contin<g ref="char:EOLhyphen"/>gent and temporal being,
+<pb n="17" facs="tcp:105501:10"/> upon an abſolutely neceſ<g ref="char:EOLhyphen"/>ſary and eternal being: for that which is temporal and contingent, was not al<g ref="char:EOLhyphen"/>wayes, but commenced in time, and had a begin<g ref="char:EOLhyphen"/>ning of its duration. Wherefore ſeeing it is ab<g ref="char:EOLhyphen"/>ſurd, to grant that there was once nothing, and that which afterwards was, gave unto it ſelf a beginning to be; we muſt conclude, that there was alwayes an abſolutely neceſſary, and eternal being without all beginning; which is onely God.</p>
+            <p>A fifth Argument the Soul uſeth to prove a Dei<g ref="char:EOLhyphen"/>ty, is the neceſſary depen<g ref="char:EOLhyphen"/>dance of all things that are good in an inferi<g ref="char:EOLhyphen"/>our order, upon ſome
+<pb n="18" facs="tcp:105501:11"/> primary and chief good: for we ſee amongſt all things in the world which are good, ſome are more, and others leſs good. Now ſeeing that all things are ſuch more or leſs, ac<g ref="char:EOLhyphen"/>cording as they do more or leſs participate of that which is moſt of all ſuch; it follows from hence, that there muſt neceſſarily be ſome Fountain of good, from whence all other goods do flow, as off<g ref="char:EOLhyphen"/>ſprings thereof; by which they are alſo meaſured: and this can be none o<g ref="char:EOLhyphen"/>ther then onely God.</p>
+            <p>Not onely theſe, but many other rational Argu<g ref="char:EOLhyphen"/>ments the ſoul uſeth, to ſa<g ref="char:EOLhyphen"/>tisfie her ſelf fully in this Truth; as, the general con<g ref="char:EOLhyphen"/>ſent
+<pb n="19" facs="tcp:105501:11"/> of all people and Na<g ref="char:EOLhyphen"/>tions; the dictate of Con<g ref="char:EOLhyphen"/>ſcience, when there is none to accuſe; the good<g ref="char:EOLhyphen"/>ly fabrick of the world; and, the continued Order of all things preſerv'd in their firſt ſtation, through all the viciſſitude of gene<g ref="char:EOLhyphen"/>ration and corruption; in<g ref="char:EOLhyphen"/>timating a wiſe Rectour and Governour upon whoſe nod and direction all things depend.</p>
+            <p>No ſooner doth the Soul by ſuch-like Arguments thorowly convince her ſelf that there is a God, but this heavenly creature, wing'd with Reaſon, ſoars yet higher, endeavouring to ſee God's face, and to know what God is. Here ſhe approaches: but ſuch
+<pb n="20" facs="tcp:105501:12"/> is the tranſcendent ſplen<g ref="char:EOLhyphen"/>dour of his bright Majeſty, that ſhe judgeth it impoſſi<g ref="char:EOLhyphen"/>ble to look God in the face, or to know <hi>a priori</hi> what God is, as <hi>Cicero</hi> ſaith in his firſt Book <hi>De naturae Deorum,</hi> under the perſon of <hi>Cotta: Rogas me quis &amp; qualis ſit Deus: auctore utar</hi> Simonide, <hi>de quo cum quae<g ref="char:EOLhyphen"/>ſiviſſet hoc idem tyrannus</hi> Hiero, <hi>deliberandi cauſa ſibi unum diem poſtulavit: cum idem ex eo poſtridie quaereret, biduum petiit. Cum ſaepius duplicaret numerum dierum, admiranſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan>
+               </hi> Hiero, <hi>quaereret cur ita faceret? Quia, in<g ref="char:EOLhyphen"/>quit, quantò diutius conſi<g ref="char:EOLhyphen"/>dero, tantò mihi res obſcurior videtur.</hi> You ask me who and what is God: I will uſe the ſpeech of <hi>Si<g ref="char:EOLhyphen"/>monides,</hi>
+               <pb n="21" facs="tcp:105501:12"/> who, when King <hi>Hiero</hi> asked him the ſame queſtion, deſired a days time to deliberate concer<g ref="char:EOLhyphen"/>ning it. The day after, when he asked him again, he deſired two days. Having in this manner divers times doubled the number of days, <hi>Hiero</hi> wondring at him, asked, Wherefore he did ſo? Becauſe, ſaith he, the longer time I take to conſider upon this matter, the more obſcure it appears unto me. And indeed, thoſe Arguments are infal<g ref="char:EOLhyphen"/>lible which are uſually brought for this Opini<g ref="char:EOLhyphen"/>on, <hi>viz.</hi> that it is impoſſible for the Soul to know God <hi>a priori.</hi>
+            </p>
+            <p>Yet though ſhe cannot ſee his face, ſhe hath leave
+<pb n="22" facs="tcp:105501:13"/> granted her to behold his back-parts: though ſhe can<g ref="char:EOLhyphen"/>not ſtrictly define the Deity, yet ſhe may in ſome maner deſcribe it: though ſhe can<g ref="char:EOLhyphen"/>not attain to any know<g ref="char:EOLhyphen"/>ledge of God by fetching Arguments <hi>a priori ad poſte<g ref="char:EOLhyphen"/>rius,</hi> from that which went before to that which fol<g ref="char:EOLhyphen"/>lows after, from the cauſe to the effect, from that which is inſenſible to that which is ſenſible; yet ſhe may argue <hi>a poſteriori ad pri<g ref="char:EOLhyphen"/>us,</hi> from that which follows after to that which went before, from that which is corporeal to that which is incorporeal, from that which is compound to that which is ſimple, from that which is temporal to that which is eternal, from that
+<pb n="23" facs="tcp:105501:13"/> which is finite to that which is infinite, from that which is natural to that which is ſupernatural, from the effect to the firſt effici<g ref="char:EOLhyphen"/>ent cauſe. By this way of argumentation the Soul makes a deſcription of the Godhead, and, either by way of negation or tran<g ref="char:EOLhyphen"/>ſcendence, attributes that unto God, which can in no wiſe, without abſurdity, be attributed to any of the creatures: as, that he is <hi>actus purus,</hi> a pure act, with<g ref="char:EOLhyphen"/>out all potentiality; <hi>ſim<g ref="char:EOLhyphen"/>pliciſſimus,</hi> moſt ſimple, without all compoſition; <hi>foeliciſſimus,</hi> moſt happy: with many other. The ve<g ref="char:EOLhyphen"/>ry Heathen Philoſophers, as <hi>Cicero, Aristotle,</hi> and <hi>Plato,</hi> by the onely light of na<g ref="char:EOLhyphen"/>ture,
+<pb n="24" facs="tcp:105501:14"/> have left ſuch ſen<g ref="char:EOLhyphen"/>tences in their writings, as may clearly demonſtrate the Soul's abilities in this kinde. <hi>Ariſtotle</hi> in his twelfth Book of Metaphy<g ref="char:EOLhyphen"/>ſicks, ſaith, That God is <hi>vivens, aeternus, &amp; optimus;</hi> living, eternal, and tran<g ref="char:EOLhyphen"/>ſcendently good: and a little after, That he is <hi>ſub<g ref="char:EOLhyphen"/>ſtantia aeterna, immobilis, magnitudinis expers, indivi<g ref="char:EOLhyphen"/>ſibilis, infinita, impaſſibilis &amp; immutabilis, a ſenſibus ſe<g ref="char:EOLhyphen"/>parata. An eternal ſub<g ref="char:EOLhyphen"/>ſtance, immoveable, without bulk, indiviſible, infinite, not capable of ſuffering or of alteration, ſeparted from the ſenſes. Plato</hi> likewiſe in <hi>Timaeo,</hi> and in his Book <hi>De Legibus,</hi> ſaith of God, That he is <hi>Genitor Univerſitatis,
+<pb n="25" facs="tcp:105501:14"/> the Begetter of this Univerſe: bonus, &amp; cauſa bonorum om<g ref="char:EOLhyphen"/>nium; good, and the cauſe of all good things.</hi>
+            </p>
+            <p>That very Attribute which Chriſtians do, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, after a more ſpecial manner aſcribe unto God, <hi>Cicero</hi> hath left in his wri<g ref="char:EOLhyphen"/>tings, ſaying, as we ſay, That God is, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>the knower of the heart.</hi> He ſaith in<note n="*" place="margin">
+                  <hi>3</hi> De nat. Deorum.</note> one place, <hi>Obſcu<g ref="char:EOLhyphen"/>rum Deo nihil poteſt eſſe:</hi> and in<note n="*" place="margin">
+                  <hi>2</hi> De Di<g ref="char:EOLhyphen"/>vin.</note> another place, <hi>Ignorare Deus non poteſt, quâ quiſque mente ſit.</hi> The ſame Au<g ref="char:EOLhyphen"/>thor, by the onely light of nature, hath contemplated God in the moſt happy fru<g ref="char:EOLhyphen"/>ition of himſelf, as alſo in his providence towards the world, and hath expreſt himſelf in a moſt Chriſtian<g ref="char:EOLhyphen"/>like
+<pb n="26" facs="tcp:105501:15"/> manner in both theſe reſpects. As touching the fruition of himſelf, he ſaith, <hi>Ea eſt Dei vita, quâ nihil beatius, nihil omnino bo<g ref="char:EOLhyphen"/>nis omnibus affluentius cogi<g ref="char:EOLhyphen"/>tari poteſt: nihil enim</hi>
+               <note n="*" place="margin">
+                  <hi>Cicero</hi> nullus in<g ref="char:EOLhyphen"/>tellexit De<g ref="char:EOLhyphen"/>itatem abſo<g ref="char:EOLunhyphen"/>lute nihil agere: ſed noſtro more non agere, <hi>ſc.</hi> cum la<g ref="char:EOLhyphen"/>bore &amp; mo<g ref="char:EOLhyphen"/>leſtia.</note> 
+               <hi>agit, nullis occupationibus eſt im<g ref="char:EOLhyphen"/>plicatus, nulla opera molitur: ſua potentia &amp; virtute gau<g ref="char:EOLhyphen"/>det, habet exploratum fore ſe ſemper tum in maximis, tum in aeternis voluptatibus. Such is the life of God, than which nothing is more happy, nothing in the world can poſſibly be thought to abound with more good things: for he doth no<g ref="char:EOLhyphen"/>thing; he is implicated in no buſineſſes, he undergoeth no labour, but enjoyeth his own power and virtue; and knoweth certainly, that he ſhall alwayes be in tranſcen<g ref="char:EOLhyphen"/>dent
+<pb n="27" facs="tcp:105501:15"/> and eternal pleaſures.</hi> As concerning God's pro<g ref="char:EOLhyphen"/>vidence, he ſaith thus: <hi>In mundo Deus eſt aliquis, qui regit, qui gubernat, qui cur<g ref="char:EOLhyphen"/>ſum aſtrorum, qui mutati<g ref="char:EOLhyphen"/>ones temporum, rerum viciſ<g ref="char:EOLhyphen"/>ſitudines ordineſque conſer<g ref="char:EOLhyphen"/>vat; terras &amp; maria contem<g ref="char:EOLhyphen"/>plans, hominum commoda vitaſque tuetur. In the world there is a God which ruleth, governeth, and pre<g ref="char:EOLhyphen"/>ſerveth the courſe of the ſtars, the mutations of times, and the viciſſitudes and orders of things; who beholding both Sea and Land, doth defend the goods and lives of men.</hi> I could produce a large Catalogue of ſuch-like ex<g ref="char:EOLhyphen"/>preſſions from the mouths of Heathens: but preſuming that what I have already
+<pb n="28" facs="tcp:105501:16"/> enumerated, may ſuffice to vindicate the Soul 's Pre<g ref="char:EOLhyphen"/>rogative, as touching the knowledge of God in his Attributes; I ſhall wave all maner of enlargements, and purſue my intended brevity.</p>
+            <p>To know God in his At<g ref="char:EOLhyphen"/>tributes, is a neer ap<g ref="char:EOLhyphen"/>proach to the Deity; yet the rational Soul comes ſtill neerer: firſt, prying about his eſſence, then returning to her ſelf, and contriving which way ſhe ſhould know more; at length ſhe ſaith within her ſelf, <hi>Ope<g ref="char:EOLhyphen"/>ratio ſequitur eſſe; action de<g ref="char:EOLhyphen"/>pends upon being.</hi> Then ſhe buſies her ſelf in the con<g ref="char:EOLhyphen"/>templation of God's acti<g ref="char:EOLhyphen"/>ons, which, ſaith ſhe, are either immanent or tran<g ref="char:EOLhyphen"/>ſient:
+<pb n="29" facs="tcp:105501:16"/> the immanent actions of God, are ſuch as are per<g ref="char:EOLhyphen"/>form'd within himſelf with<g ref="char:EOLhyphen"/>out reſpect had to the crea<g ref="char:EOLhyphen"/>tures, whereby he is ſaid to know himſelf, and to love himſelf; as <hi>Scaliger</hi> ſaith, <hi>Deus generat ex ſeipſo, in ſeipſo ſuiipſius intellectio<g ref="char:EOLhyphen"/>nem, eodem modo, eandem ae<g ref="char:EOLhyphen"/>qualem ſibi. God doth from himſelf begat an underſta<g ref="char:cmbAbbrStroke">̄</g>ding of himſelf in himſelf, after the ſame manner, the ſame equal to himſelf.</hi> Here the Soul takes notice of a reflection of the Deity upon it ſelf, and is ſublim'd into the ſuppoſition of a Trinity: for whereas God doth conceive and know himſelf, he doth beget a moſt perfect image of himſelf, from whence alſo proceedeth a moſt per<g ref="char:EOLhyphen"/>fect
+<pb n="30" facs="tcp:105501:17"/> love of himſelf. Now ſeing there is nothing in God, which is not God; both the image of God, and the love of God ſeem to be diſtinct<note n="*" place="margin">Vocabu<g ref="char:EOLhyphen"/>lum Grae<g ref="char:EOLhyphen"/>cum, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, mul<g ref="char:EOLhyphen"/>tiſariam ac<g ref="char:EOLhyphen"/>cipitur; &amp; inter varias ejus acceptiones aliquando ſumitur pro eſſentia entis: quo ſenſu Patres Concilii <hi>Sardienſis</hi> cenſuerunt, ut eſt apud <hi>Theodore<g ref="char:EOLhyphen"/>tum</hi> in Eccleſiaſtica Hiſtoria, <hi>lib. 2. cap. 8.</hi> unam eſſe hypoſtaſin Patris, Filii, &amp; Spiritus ſancti. Verum enim vero <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> pro ſup<g ref="char:EOLhyphen"/>poſito naturae intelligentis haud obſcuri Au<g ref="char:EOLhyphen"/>thores accipiunt: quo ſenſu Graeci Patres in divina eſſentia tres hypoſtaſes eſſe aſſerunt; &amp; <hi>Dionyſius Areopagita,</hi> qui Apoſtolorum coaetaneus fuiſſe perhibetur, in <hi>lib.</hi> De Caelesti Hierarchia, vocat divinam eſſentiam unitatem, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, hoc eſt, in tribus hypoſtatibus ſub<g ref="char:EOLhyphen"/>ſiſtentem.</note> 
+               <hi>Hypoſtaſes</hi> or ſubſiſtences of the ſame eſſence with him from whom they do proceed, as if an eye ſhould ſee it ſelf: there is firſt the eye ſeeing; ſecondly, the eye
+<pb n="31" facs="tcp:105501:17"/> ſeen, or at leaſt, the image or ſpecies of that eye ſeen: from which action of ſee<g ref="char:EOLhyphen"/>ing, there muſt neceſſarily proceed a deſire of enjoy<g ref="char:EOLhyphen"/>ing; <hi>for every action hath its end.</hi> This compariſon of the eye doth in ſome ſort adumbrate the Trini<g ref="char:EOLhyphen"/>ty; yet by ſhewing how far ſhort the compariſon is, the true notion of the Trinity may be more clearly de<g ref="char:EOLhyphen"/>monſtated. The Eye can<g ref="char:EOLhyphen"/>not ſee it ſelf, but the Deity cannot but behold it ſelf; there being no object beyond it, or extraneous to it. <hi>God doth primarily ſee and know himſelf: But ſecondarily, the creatures, who live, move, and have their being in him.</hi>
+            </p>
+            <p>The Eye doth not always
+<pb n="32" facs="tcp:105501:18"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="33" facs="tcp:105501:18"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="32" facs="tcp:105501:19"/> ſee, but doth in time begin, and afterwards ceaſe to ſee: but the Deity cannot but alwayes behold and know it ſelf; and cannot but ſubſiſt in the eternal contemplation of it ſelf.</p>
+            <p>If we ſhould grant that the eye could ſee it ſelf; yet in propriety of ſpeech, we muſt deny our ſuppoſition; for the Eye ſees not the naked eſſence of any thing, but a certain accident, <hi>viz.</hi> the intentional ſpe<g ref="char:EOLhyphen"/>cies: but the Deity is eſ<g ref="char:EOLhyphen"/>ſentially beheld of it ſelf, reflecting no other ſpecies or image from it then its naked eſſence, whoſe per<g ref="char:EOLhyphen"/>fection is ſuch, that it can<g ref="char:EOLhyphen"/>not but ſubſiſt eternally be<g ref="char:EOLhyphen"/>held and contemplated by it ſelf.</p>
+            <pb n="33" facs="tcp:105501:19"/>
+            <p>From the reflection of the Eye upon it ſelf, there can proceed onely an ap<g ref="char:EOLhyphen"/>petite of enjoying: but from the reflection of the Deity upon it ſelf, there cannot but proceed an ab<g ref="char:EOLhyphen"/>ſolute fruition. <hi>Actiones feruntur in bonum,</hi> ſaith the Philoſopher: from the re<g ref="char:EOLhyphen"/>flection of an eye upon it ſelf, there can onely pro<g ref="char:EOLhyphen"/>ceed <hi>bonum deſiderii, a good of deſire:</hi> but from the refle<g ref="char:EOLhyphen"/>ction of the Deity upon it ſelf, there cannot but proceed <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, or <hi>bonum complacentiae; a good of com<g ref="char:EOLhyphen"/>placency.</hi> After this man<g ref="char:EOLhyphen"/>ner doth the Soul diſcourſe freely &amp; ingenuouſly with<g ref="char:EOLhyphen"/>in her ſelf; I mean the ra<g ref="char:EOLhyphen"/>tional Soul not clouded with ſenſuality, nor ſtraight<g ref="char:EOLhyphen"/>ned
+<pb n="34" facs="tcp:105501:20"/> and girt with preju<g ref="char:EOLhyphen"/>dice. Then doth ſhe con<g ref="char:EOLhyphen"/>clude, that there are three neceſſary diſtinct ſub<g ref="char:EOLhyphen"/>ſiſtences, yet but one eſ<g ref="char:EOLhyphen"/>ſence of the Deity; or that the Deity, which is eſſenti<g ref="char:EOLhyphen"/>ally one, is ſubſiſtentially three. The Deity doth neceſſarily ſubſiſt, firſt, in the eternal contemplation of it ſelf; ſecondly, it doth ſubſiſt eternally, contem<g ref="char:EOLhyphen"/>plated by it ſelf; and third<g ref="char:EOLhyphen"/>ly, it doth ſubſiſt in an e<g ref="char:EOLhyphen"/>ternal complacency of it ſelf: yet are there not three eternals, but one e<g ref="char:EOLhyphen"/>ternal; becauſe the notion we have of eternity ex<g ref="char:EOLhyphen"/>cludes plurality: neither do we conceive the firſt, ſecond, and third ſub<g ref="char:EOLhyphen"/>ſiſtence, to be one before
+<pb n="35" facs="tcp:105501:20"/> another in time or durati<g ref="char:EOLhyphen"/>on, becauſe eternity is in<g ref="char:EOLhyphen"/>diviſible, having neither priority nor poſteriority; but onely by a priority of order or diſpoſition of their relation. When we ſay that God is merciful, or that God is juſt, we ſpeak improperly or <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>after the manner of men;</hi> there being no real diſtin<g ref="char:EOLhyphen"/>ction betwixt God's mer<g ref="char:EOLhyphen"/>cy and his juſtice. But when we denominate the Deity to ſubſiſt contem<g ref="char:EOLhyphen"/>plating or contemplated, <hi>&amp;c.</hi> we ſpeak<note n="*" place="margin">Scientia ſeu contem<g ref="char:EOLhyphen"/>platio proprie competit divinae naturae, &amp; im<g ref="char:EOLhyphen"/>proprie tribuitur creaturis: notitia enim noſtra eſt obſcura &amp; imperfecta, divina vero eſt perfecta &amp; <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>bſoluta. Multo magis ab aeterno in aeternum ſcire &amp; contemplari Dei proprium eſt, quod nullo modo de creaturarum perfectiſſi<g ref="char:EOLhyphen"/>ma predicari poteſt.</note> properly and abſolutely. Where<g ref="char:EOLhyphen"/>fore,
+<pb n="36" facs="tcp:105501:21"/> although theſe three ſubſiſtences be all concen<g ref="char:EOLhyphen"/>tred in the Deity; yet they are<note n="*" place="margin">Diſtingun<g ref="char:EOLhyphen"/>tur ab in<g ref="char:EOLhyphen"/>vicem, quia ad invicem referuntur. Ratio enim formalis re<g ref="char:EOLhyphen"/>lationis eſt ſemper ſup<g ref="char:EOLhyphen"/>ponere ali<g ref="char:EOLhyphen"/>ud cui u<g ref="char:EOLhyphen"/>numquod<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> rela<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>orum referatur. Quemad<g ref="char:EOLhyphen"/>modum <hi>A<g ref="char:EOLhyphen"/>riſtoteles,</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, &amp;c. Et infra ſubjungit, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> diſtinct each one from the other. In that they do ſuſibſt inviſible in themſelves, and really di<g ref="char:EOLhyphen"/>ſtinct from each other, we may properly call them perſons:<note n="†" place="margin">Perſona eſt ſubſtantia individua, intelli<g ref="char:EOLhyphen"/>gens, incommunicabilis. Haec definitio a <hi>Zan<g ref="char:EOLhyphen"/>chic, lib. 1.</hi> De tribus Elohim, &amp; uno Jeho<g ref="char:EOLhyphen"/>va. <hi>cap. 2.</hi> ex communi Patrum Latinorum conſenſu affertur.</note> for a perſon ac<g ref="char:EOLhyphen"/>cording to Philoſophers, is a rational or intelligible ſubſiſtence diſtinct from o<g ref="char:EOLhyphen"/>thers, and indiviſible in it ſelf.</p>
+            <pb n="37" facs="tcp:105501:21"/>
+            <p>Hither is the Soul arriv'd, <hi>viz.</hi> to the knowledge of three perſons in one eſ<g ref="char:EOLhyphen"/>ſence of the Deity; or, to the acknowledgement of a Trinity in Unity, by the conſideration of God's im<g ref="char:EOLhyphen"/>manent actions. Now doth ſhe paſs from hence, unto his tranſient actions, which are the Creation of the World, and the preſerva<g ref="char:EOLhyphen"/>tion thereof. Here ſhe doth premiſe, that the world was not from eter<g ref="char:EOLhyphen"/>nity, but did commence with time; as alſo, that there could be no firſt mat<g ref="char:EOLhyphen"/>ter<note n="*" place="margin">Abſurdum enim eſſet <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, abſolu<g ref="char:EOLhyphen"/>tam aeterni<g ref="char:EOLhyphen"/>tatem &amp; eſſendi ne<g ref="char:EOLhyphen"/>ceſſitatem ali<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ui niſi ſoli Deo tribuere.</note> eternally coexiſting with the Deity. Moreo<g ref="char:EOLhyphen"/>ver, ſhe doth preſuppoſe that it would be abſurd ei<g ref="char:EOLhyphen"/>ther to affirm or grant that the Deity did act poſitive<g ref="char:EOLhyphen"/>ly
+<pb n="38" facs="tcp:105501:22"/> upon nothing; although before the Creation of the world, there was beſides God, privatively, not any thing. There was before the Creation of the world, one onely abſolutely ne<g ref="char:EOLhyphen"/>ceſſary infinite Being, <hi>viz.</hi> God, who by reaſon of his infinity and abſolute per<g ref="char:EOLhyphen"/>fection, could perform no action abſolutely tranſient: neither had he any object beſides himſelf to act upon. Time, and place, or finity might have then been de<g ref="char:EOLhyphen"/>nominated nothing, it be<g ref="char:EOLhyphen"/>ing contradiſtinct to infi<g ref="char:EOLhyphen"/>nity, or a negation of that infinite being, which did onely then exiſt. Where<g ref="char:EOLhyphen"/>fore, time and place be<g ref="char:EOLhyphen"/>fore the Creation of the World, could never have
+<pb n="39" facs="tcp:105501:22"/> been<note n="*" place="margin">Nihil non eſt intelligi<g ref="char:EOLhyphen"/>bili niſi per notionem alterius de quo ſimpli<g ref="char:EOLhyphen"/>citur nega<g ref="char:EOLhyphen"/>tur: ſed tempus &amp; locus ante creationem mundi nihil erant: Ergo.</note> conceived or willed by the Deity; unleſs he had conceived and willed himſelf, together with time and place. So that it ſeems to the rational Soul, that time and place had its being by the Deities con<g ref="char:EOLhyphen"/>ception and volition of himſelf, together with time and place; which was the poſition of the word of his minde in time and place.</p>
+            <p>Here is alſo ſo clear a Demonſtration of the Tri<g ref="char:EOLhyphen"/>nity in the Creation of the world, that it ſeems im<g ref="char:EOLhyphen"/>poſſible to the rational Soul to have the true no<g ref="char:EOLhyphen"/>tion of Creation with<g ref="char:EOLhyphen"/>out the conceit of the Tri<g ref="char:EOLhyphen"/>nity: Inſomuch, that the Ancients, who were
+<pb n="40" facs="tcp:105501:23"/> more profound Philoſo<g ref="char:EOLhyphen"/>phers, did expreſs the word <hi>create</hi> by an Hebrew word conſiſting of three Letters, <hi>viz.</hi> א <hi>Aleph,</hi> ב <hi>Beth,</hi> and ר <hi>Reſch,</hi> which ſignifie the Father, the Son, and the Spirit: which three Letters, by addition of their proper Vowels, ei<g ref="char:EOLhyphen"/>ther expreſt or underſtood, are a Verb of the Preter<g ref="char:EOLhyphen"/>perfect tenſe, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, ſignify<g ref="char:EOLhyphen"/>ing, the Father, the Son, and the Spirit have joyntly acted, or, they have con<g ref="char:EOLhyphen"/>ſpired to act. This word, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>creavit,</hi> doth in it ſelf ſufficiently expreſs the action of the Deity, ſub<g ref="char:EOLhyphen"/>ſiſting in a three-fold man<g ref="char:EOLhyphen"/>ner: yet the Ancients go farther, putting to it a word expreſſing the Deity in the
+<pb n="41" facs="tcp:105501:23"/> Plural Number, ſaying, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Elohím bara,</hi> the Gods have created, or rather, God as he is per<g ref="char:EOLhyphen"/>ſonally three hath created. <hi>Hermes</hi> a moſt profound Rationaliſt, who was there<g ref="char:EOLhyphen"/>fore called <hi>Triſmegiſtus,</hi> in his Book intituled <hi>Piman<g ref="char:EOLhyphen"/>der,</hi> hath <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eft a ſen<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ence to poſterity, relating to the Creation of the World, as ſome do interpret; but as others do conſtrue it, it doth onely expreſs the Tri<g ref="char:EOLhyphen"/>nity. In this ambiguity, it is not difficult to decide the controverſie, by affirm<g ref="char:EOLhyphen"/>ing that <hi>Mercurius Triſme<g ref="char:EOLhyphen"/>giſtus</hi> did, by one and the ſame ſentence, primarily adumbrate the Trinity, and ſecondarily the Creation of the World. For God,
+<pb n="42" facs="tcp:105501:24"/> who is himſelf a pure and moſt ſimple act in the eter<g ref="char:EOLhyphen"/>nal contemplation of him<g ref="char:EOLhyphen"/>ſelf abſolutely infinite, doth neceſſarily contem<g ref="char:EOLhyphen"/>plate himſelf, coexiſting with the world, or time and place: the World be<g ref="char:EOLhyphen"/>ing an incluſion or paren<g ref="char:EOLhyphen"/>theſis of infinity. The ſen<g ref="char:EOLhyphen"/>tence is this: <hi>Monas genuit monadem, &amp; in ſe ſuum re<g ref="char:EOLhyphen"/>flexit ardorem.</hi>
+               <note place="margin">In <hi>1</hi> Part ſummae theolog. quaeſt. <hi>32.</hi> art. <hi>1.</hi>
+               </note> 
+               <hi>Thomas</hi> un<g ref="char:EOLhyphen"/>derſtands it to be onely related to the production of the world, ſuppoſing it to be analogical to theſe words of his, <hi>viz. Unus Deus produxit unum mun<g ref="char:EOLhyphen"/>dum propter ſuiipſius amo<g ref="char:EOLhyphen"/>rem:</hi> but moſt Philoſo<g ref="char:EOLhyphen"/>phers ſay, that <hi>Hermes</hi> by ratiocination came to the knowledge of the Trinity,
+<pb n="43" facs="tcp:105501:24"/> and expreſt it after the a<g ref="char:EOLhyphen"/>foreſaid manner. He ſaith not, <hi>Monas produxit mona<g ref="char:EOLhyphen"/>dem;</hi> but, <hi>Monas genuit monadem.</hi> Now the world may not properly be ſaid to have been begotten: for in the Creation of the World by his will, the World can in no wiſe be called <hi>verbum mentis,</hi> the Word of his minde; in that the world being no<g ref="char:EOLhyphen"/>thing, could not have been conceived in the minde of God, had not he conceiv'd himſelf together with the World: ſo that God himſelf, being primarily conceiv'd of himſelf, is <hi>verbum mentis Dei, the word of his own minde;</hi> by whom all things were made, and without whom there could nothing
+<pb n="44" facs="tcp:105501:25"/> have been made, which was made; who, as he is conceived, is perſonally diſtinguiſhed from himſelf conceiving, although he be eſſentially the ſame. The Soul, whoſe property it is to try all things, and by diſ<g ref="char:EOLhyphen"/>courſe, either to reduce her ſuperficial conceits into im<g ref="char:EOLhyphen"/>poſſibilities, and ſo paſs them by as phantaſmes, or elſe to prove them neceſſa<g ref="char:EOLhyphen"/>ry, and then to retain and embrace them as eternal Truths, doth, by ſuch-like preceding diſcourſe, prove an abſolute neceſſity of the eternal being of one God, whoſe every action is but one action, and that eter<g ref="char:EOLhyphen"/>nal: in which eternal acti<g ref="char:EOLhyphen"/>on, which is alſo himſelf, who is <hi>actus purus,</hi> he hath
+<pb n="45" facs="tcp:105501:25"/> eternally ſubſiſted perſo<g ref="char:EOLhyphen"/>nally three; in which perſonal ſubſiſtency, he hath eternally created the World.</p>
+            <p>The Soul having contem<g ref="char:EOLhyphen"/>plated the World <hi>in fieri,</hi> comes now to take a ſurvey thereof, as it doth exſiſt <hi>in facto eſſe.</hi>
+            </p>
+            <p>In this place ſhe doth not conſider it, as conſiſting of ſuch and ſuch parts, or containing ſuch and ſuch particular creatures; but ſhe onely looks upon it as a finite being, contra<g ref="char:EOLhyphen"/>diſtinct to infinity: and firſt ſhe diſcourſeth the na<g ref="char:EOLhyphen"/>ture of time, defining it, according to common Phi<g ref="char:EOLhyphen"/>loſophy, to be <hi>menſura mo<g ref="char:EOLhyphen"/>tûs Coeli per prius &amp; poſteri<g ref="char:EOLhyphen"/>us.</hi> But being jealous, leſt
+<pb n="46" facs="tcp:105501:26"/> ſhe ſhould impoſe upon her ſelf, by a paralogiſm, and ſo be miſtaken in the finding out of that moſt precious Jewel, which ſhe ſo ear<g ref="char:EOLhyphen"/>neſtly ſeeks after, <hi>viz. Truth;</hi> ſhe reſts not con<g ref="char:EOLhyphen"/>tented with this definiti<g ref="char:EOLhyphen"/>on, but convinceth her ſelf of the nature of time, by comparing it with Eter<g ref="char:EOLhyphen"/>nity.</p>
+            <p>Eternity is a duration without either beginning or ending, having neither priority nor poſteriority, but indiviſible.</p>
+            <p>Time is a duration having both beginning and end<g ref="char:EOLhyphen"/>ing, and is in it ſelf diviſi<g ref="char:EOLhyphen"/>ble into priority and poſte<g ref="char:EOLhyphen"/>riority. Time, as time, whether we look upon all time, or the leaſt par<g ref="char:EOLhyphen"/>ticle
+<pb n="47" facs="tcp:105501:26"/> thereof, doth conſiſt of theſe two eſſential parts, <hi>viz.</hi> the later, and the former; which have their dependence upon a point or moment, in the midſt thereof. If then; before all time, there was one onely infinite being, who by the po<g ref="char:EOLhyphen"/>ſition of his Word in time, cauſed time to be; the rational Soul col<g ref="char:EOLhyphen"/>lects from hence, toge<g ref="char:EOLhyphen"/>ther with what is pre<g ref="char:EOLhyphen"/>miſed, that the Word of God was, in the fulneſs or midſt of all time, to im<g ref="char:EOLhyphen"/>poſe a period to the for<g ref="char:EOLhyphen"/>mer, and a commence<g ref="char:EOLhyphen"/>ment to the later time; or to conſtitute the eſſential parts of time, <hi>viz.</hi> pri<g ref="char:EOLhyphen"/>ority and poſteriority, by
+<pb n="48" facs="tcp:105501:27"/> being in the midſt there<g ref="char:EOLhyphen"/>of. And ſeeing it is that middle point, which doth, by diſ-joyning duration, give a being to priority and poſteri<g ref="char:EOLhyphen"/>ority; we muſt neceſ<g ref="char:EOLhyphen"/>ſarily conclude, that the Word of God, which is the ſecond Perſon in the Trinity, not onely in his eternal eſſence, but alſo in his exiſtence, in the fulneſs of time, was <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>the beginning of the creation of God.</hi>
+            </p>
+            <p>Now the Soul comes to examine the nature of place; which, ſaith ſhe, is that determinate and circumſcrib'd <hi>ubi,</hi> wherein a body is con<g ref="char:EOLhyphen"/>tain'd; which can neither
+<pb n="49" facs="tcp:105501:27"/> be named, nor rightly un<g ref="char:EOLhyphen"/>derſtood without the pre<g ref="char:EOLhyphen"/>ſuppoſition of a body;<note n="*" place="margin">Corpus a Philoſophis dicitur eſſe in loco bifa<g ref="char:EOLhyphen"/>riam, <hi>ſc.</hi> vel circum<g ref="char:EOLhyphen"/>ſcriptive, quatenus ab alio cor<g ref="char:EOLhyphen"/>pore extrin<g ref="char:EOLhyphen"/>ſecus am<g ref="char:EOLhyphen"/>biente con<g ref="char:EOLhyphen"/>tinetur: vel repletive, quateuus ſua m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>le occupat &amp; replet cer<g ref="char:EOLhyphen"/>tum ſpati<g ref="char:EOLhyphen"/>um locale. Priori modo quicquid eſt corporum excepto Caelo ſupremo, localitatem habet. Po<g ref="char:EOLhyphen"/>ſteriori autem modo de omni cor<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ore ſimpliciter localitas praedicatur. Omne enim corpus eſt, quantum, &amp; quatenus quantum, eſt extenſum in longum, latum, &amp; profundum: &amp; quatenus eſt extenſum, habet certum ſitum &amp; diſtantiam partium: ac proinde certum ſpatium locale re<g ref="char:EOLhyphen"/>plet ac occupat.</note> in<g ref="char:EOLhyphen"/>ſomuch, that it is impoſſi<g ref="char:EOLhyphen"/>ble there ſhould be a body which is not in place, as alſo, that there ſhould be place which doth not con<g ref="char:EOLhyphen"/>tain a body: ſo that a <hi>bo<g ref="char:EOLhyphen"/>dy</hi> and <hi>place</hi> have a relative convertibility, the one to the other; and are ſo mu<g ref="char:EOLhyphen"/>tually reciprocated, that the one being granted, the other is neceſſarily preſup<g ref="char:EOLhyphen"/>poſed.</p>
+            <pb n="50" facs="tcp:105501:28"/>
+            <p>The Soul from hence collects, that if the Word of God did ſo exiſt in place as to give a being thereto; the Word of God did aſ<g ref="char:EOLhyphen"/>ſume a body, which being from eternity conceived in the minde of God, as the onely Idea and platform of the whole creation, muſt neceſſarily be of the nature of the perfecteſt of bodies; which is fleſh.</p>
+            <p>The Soul is now arrived to the incarnation of the Word. The Word, ſaith ſhe, became fleſh and dwelt amongſt us; yet in ſuch a Tabernacle as might be the patern of the great Temple, the World, <hi>as alſo of other living Temples of the Holy Ghoſt.</hi> Here ſhe conceiv<g ref="char:EOLhyphen"/>eth, that though fleſh in
+<pb n="51" facs="tcp:105501:28"/> the general be the per<g ref="char:EOLhyphen"/>fecteſt of bodies; yet not any manner of fleſh could make a fit Tabernacle for the Word to dwell in, but ſuch onely, as ſhould con<g ref="char:EOLhyphen"/>tain all the variety of the whole world; which is the humane nature.</p>
+            <p>Here the Soul contem<g ref="char:EOLhyphen"/>plates the Word incarnate to be <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, both God and Man, having a perfect humane body, and rational Soul perſonally united with his Divinity. This perſonal Union of the divine and humane nature of the Word, muſt neceſſa<g ref="char:EOLhyphen"/>rily be the immediate act of God; and conſequent<g ref="char:EOLhyphen"/>ly, that body which the Word did aſſume (al<g ref="char:EOLhyphen"/>though, as it was perfectly
+<pb n="52" facs="tcp:105501:29"/> humane, it ſhould neceſſa<g ref="char:EOLhyphen"/>rily conſiſt of fleſh and blood, &amp; other ſuch eſſen<g ref="char:EOLhyphen"/>tial parts as do conſtitute an abſolute humane body) could not be produced by generation according to the will of man, having no need of ſeminality to contribute unto it its pla<g ref="char:EOLhyphen"/>ſtick or formative virtue; not onely in that it was e<g ref="char:EOLhyphen"/>ternally conceived in the minde of God, as the Idea of the whole Creation; but alſo, in that it did ex<g ref="char:EOLhyphen"/>iſt in the fulneſs of time, which is the beginning of all time, according to the true notion thereof. In this moment or middle point, which gave time a being, which doth divide and couple time with eter<g ref="char:EOLhyphen"/>nity,
+<pb n="53" facs="tcp:105501:29"/> and doth diſ-joyn and unite priority with poſte<g ref="char:EOLhyphen"/>riority, which is in a ſeve<g ref="char:EOLhyphen"/>ral reſpect, both time and eternity: I ſay, in this both temporal and eternal du<g ref="char:EOLhyphen"/>ration was the light crea<g ref="char:EOLhyphen"/>ted; in this fulneſs of time, was the Word incarnated; which Word incarnate is both God, and Man; the image of God, and the light of Man; and Man is the image or ſhadow of that light.</p>
+            <p>This at the firſt view may ſeem myſterious and pro<g ref="char:EOLhyphen"/>found: yet after a more inward ſcrutiny, it ſquares with the humane intellect, being pure quinteſſenti<g ref="char:EOLhyphen"/>ated and ſublim'd reaſon: for time is ſo included in, interwoven with, and as it
+<pb n="54" facs="tcp:105501:30"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="55" facs="tcp:105501:30"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="54" facs="tcp:105501:31"/> were ſtrung upon eternity, that eternity is both the centre and the circumfe<g ref="char:EOLhyphen"/>rence, the poles and the axle-tree of all time: and according to the notion we have of time, together with its dependence upon, and connexion with eter<g ref="char:EOLhyphen"/>nity; we muſt neceſſari<g ref="char:EOLhyphen"/>ly grant ſome duration to be both time and eternity; wherein we imagine the firſt act of the Creation to have been performed. Which firſt act of the Cre<g ref="char:EOLhyphen"/>ation, the rational Soul de<g ref="char:EOLhyphen"/>monſtrates to have been the incarnation of the Word, as a cauſe; and the Creation of light, or the angelical nature, under the notion of an immediate effect: for even as the
+<pb n="55" facs="tcp:105501:31"/> Word by exiſting in time and place did give a being thereto, and by aſſuming a moſt compleat and per<g ref="char:EOLhyphen"/>fect body, which being both elementary, vege<g ref="char:EOLhyphen"/>tative, ſenſitive, <hi>&amp;c.</hi> he did contribute eſ<g ref="char:EOLhyphen"/>ſence to the Elements, Vegetables, living Crea<g ref="char:EOLhyphen"/>tures, <hi>&amp;c.</hi> even ſo by the perſonal union and perfect conjunction of his divine and humane nature, (which perſonal union is to be conſider<g ref="char:EOLhyphen"/>ed before the humane nature alone, or thoſe other ſubordinate natures comprehended in it, <hi>viz.</hi> ſenſe, vegetation, cor<g ref="char:EOLhyphen"/>poreity) he hath cre<g ref="char:EOLhyphen"/>ated the Angels, which are a middle nature be<g ref="char:EOLhyphen"/>twixt
+<pb n="56" facs="tcp:105501:32"/> God and Man: ſo that the whole Creati<g ref="char:EOLhyphen"/>on ſeems to be a moſt perfect Scheme, Image, or Shadow of the Word incarnate; and all the variety thereof, in each particular, analogical<g ref="char:EOLhyphen"/>ly received from his ful<g ref="char:EOLhyphen"/>neſs. Although, <hi>quo<g ref="char:EOLhyphen"/>ad nos,</hi> the Word incar<g ref="char:EOLhyphen"/>nate may ſeem to be the ſecond <hi>Adam,</hi> who may ſeem to us to have exiſted in the world before him; yet <hi>quoad Deum,</hi> he is the be<g ref="char:EOLhyphen"/>ginning of the Creation of God, and the protoplaſt of mankind, after whoſe image Man was made. Who by the conjunction of his di<g ref="char:EOLhyphen"/>vine and humane nature, is the Supporter and Bearer of the whole world;
+<pb n="57" facs="tcp:105501:32"/> to whom, each Creature ows its being; by whom, as an efficient cauſe; by whom, as a final cauſe; and by whom, as <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the world was made: and whithout whom, in each of theſe reſpects, was not any thing made, that was made. Who in his di<g ref="char:EOLhyphen"/>vine nature is ubiquitary; and in his humane nature, was, in the midſt of time generally taken, converſant in the midſt of the then ha<g ref="char:EOLhyphen"/>bitable world; and in the very midſt of time ſtrictly taken, did, without doubt, locally deſcend, together with all the immateriate po<g ref="char:EOLhyphen"/>wers of the humane nature, into the bottom, centre, or midſt of all circumference; which could not be,<note n="*" place="margin">Si unum corpus per aliud pene<g ref="char:EOLhyphen"/>traret, ſe<g ref="char:EOLhyphen"/>quoretur corpus non eſſe corpus, ſed ſubſtan<g ref="char:EOLhyphen"/>tiam incor<g ref="char:EOLhyphen"/>poream quantitatis expert<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m: quod abſur<g ref="char:EOLhyphen"/>dum eſt, &amp; manifeſtam implicat contradicti<g ref="char:EOLhyphen"/>onem. Quemad<g ref="char:EOLhyphen"/>modum <hi>Da<g ref="char:EOLhyphen"/>maſcenus</hi> l. <hi>1.</hi> Ortho<g ref="char:EOLhyphen"/>doxae fidei, <hi>cap. 3.</hi> ait, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> ex<g ref="char:EOLhyphen"/>cept
+<pb n="58" facs="tcp:105501:33"/> he ſhould have put off the material and corporeal part of his humanity, not re<g ref="char:EOLhyphen"/>aſſuming the ſame until his aſſent from the infernal pit. Now ſuch muſt neceſſarily have been the<note n="*" place="margin">Rationi conſentane<g ref="char:EOLhyphen"/>um eſt eam fuiſſe <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, corpo<g ref="char:EOLhyphen"/>ris illius <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, &amp; <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, ut ſi omnia oſ<g ref="char:EOLhyphen"/>ſa ejus fra<g ref="char:EOLhyphen"/>cta fuiſſent, ſtatim con<g ref="char:EOLhyphen"/>glutinaren<g ref="char:EOLhyphen"/>tur. Proba<g ref="char:EOLhyphen"/>bile autem eſt tam bal<g ref="char:EOLhyphen"/>ſamica pol<g ref="char:EOLhyphen"/>luiſſe vi hu<g ref="char:EOLhyphen"/>mores illius corporis; ut vulnera in exteriori<g ref="char:EOLhyphen"/>bus inflicta mortem non conciliaſſent: ſed in<g ref="char:EOLhyphen"/>nato corporis balſamo, humoribus, <hi>ſc.</hi> illuc de<g ref="char:EOLhyphen"/>flu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ntibus ſanari potuiſſent. Methodum igitur iſthanc fruſtrancam frangendi oſſa ejus omniſcia recuſavit providentia. Et ad vulnera quod atti<g ref="char:EOLhyphen"/>net: previdit, ut non tantum exteriora inflige<g ref="char:EOLhyphen"/>rentur, ſed ut ipſum cor lancea perfoderetur: ita ut ex ipſo corde ſanguis efflueret, &amp; ab ejuſ<g ref="char:EOLhyphen"/>dem capſula, <hi>ſc.</hi> pericardio aqua dimanaret.</note> exact <hi>craſis</hi> or temperament of that moſt perfect and compleat body which the Word did aſſume; that it is conjectu<g ref="char:EOLhyphen"/>rable, that it might ſuffer and be deprived of its form, by ſolution of conti<g ref="char:EOLhyphen"/>nuity, rather then from a<g ref="char:EOLhyphen"/>ny
+<pb n="59" facs="tcp:105501:33"/> internal principles pro<g ref="char:EOLhyphen"/>ceeding from a depraved habit or evil conſtitution: and being deprived of its form, it is probable it ſhould be incapable of cor<g ref="char:EOLhyphen"/>ruption, in that it is impoſ<g ref="char:EOLhyphen"/>ſible it ſhould have been produced by generation.</p>
+            <p>The Soul is raviſhed with the contemplation hereof, being not able to expreſs a tythe of what ſhe cannot but conceive: being ſo op<g ref="char:EOLhyphen"/>preſs'd and overwhelm'd with reaſon, that ſhe can<g ref="char:EOLhyphen"/>not poſſibly utter her no<g ref="char:EOLhyphen"/>tions herein, except ſhe had cloven tongues to mul<g ref="char:EOLhyphen"/>tiply her expreſſions. For the Word incarnate is that All in All, both of finity and infinity, wherein are all the reaſons of things, to<g ref="char:EOLhyphen"/>gether
+<pb n="60" facs="tcp:105501:34"/> with their beings, concentred: whereby cor<g ref="char:EOLhyphen"/>ruption hath a poſſibility to put on incorruption, and mortality to put on immortality. For, as his being in the world, cauſed the world to be; ſo the perfect conjunction and perſonal union of his di<g ref="char:EOLhyphen"/>vine and humane nature, which can never be diſ<g ref="char:EOLhyphen"/>joyned, giveth an eternal <hi>precarium eſſe</hi> to the whole humane nature; or a poſ<g ref="char:EOLhyphen"/>ſibility to all man-kinde to enjoy an eternal being: yet muſt the whole world beſides neceſſarily return unto its firſt nothing, whoſe exiſtence is but as a <hi>paren<g ref="char:EOLhyphen"/>theſis</hi> in infinity; in which <hi>parentheſis</hi> the two ex<g ref="char:EOLhyphen"/>treams, <hi>viz.</hi> Creation and
+<pb n="61" facs="tcp:105501:34"/> Annihilation muſt neceſſa<g ref="char:EOLhyphen"/>rily be equally diſtant from that point in the midſt, wherein the Word did exiſt, to give an abſolutely finite being thereto. At the diſ<g ref="char:EOLhyphen"/>ſolution whereof, it is ne<g ref="char:EOLhyphen"/>ceſſary that the Word in<g ref="char:EOLhyphen"/>carnate do actually exiſt in the world, to impoſe a period thereto (whoſe commencement did de<g ref="char:EOLhyphen"/>pend upon his actual ex<g ref="char:EOLhyphen"/>iſtence therein) by recol<g ref="char:EOLhyphen"/>lecting into himſelf that ſcattered light, which is tu<g ref="char:EOLhyphen"/>telary to the world, which was at firſt from him diſ<g ref="char:EOLhyphen"/>perſed: before whom the whole world muſt neceſſa<g ref="char:EOLhyphen"/>rily be collected, together with the angelical nature, which is the next and im<g ref="char:EOLhyphen"/>mediate ſupporter thereof,
+<pb n="62" facs="tcp:105501:35"/> and muſt be rolled up as a Book; and then being de<g ref="char:EOLhyphen"/>prived of its tutelary light, muſt paſs away as a Scheme; the glory whereof ſhall no ſooner be reaſſumed into the Word, then reflected upon the humane aſhes, to revive the ſame into an in<g ref="char:EOLhyphen"/>corruptible and eternal be<g ref="char:EOLhyphen"/>ing.</p>
+            <p>After this manner doth the rational Soul aſcribe the Creation of the World to God, as the firſt efficient cauſe thereof: which one God, ſhe doth demonſtrate by reaſon to have ſubſiſted perſonally three, in the very act of Creation: but in a more ſpecial manner, ſhe doth aſcribe the Crea<g ref="char:EOLhyphen"/>tion to the Word, which is the ſecond Perſon in the
+<pb n="63" facs="tcp:105501:35"/> Trinity, whoſe actual ex<g ref="char:EOLhyphen"/>iſtence in the world, gave a being thereto. In the con<g ref="char:EOLhyphen"/>templation whereof, ſhe cannot but diſcern with the Eye of Reaſon, that all thoſe myſteries which the holy Scriptures hold forth unto us, are not at all re<g ref="char:EOLhyphen"/>pugnant to Reaſon: As, that the Word was incar<g ref="char:EOLhyphen"/>nated in the fulneſs of time, having been eternally conceived by the Holy Ghoſt: that he took upon him the humane nature: that he died by a violent death: that he deſcended into hell; with many others.</p>
+            <p>Having found out in the Book of Nature thoſe my<g ref="char:EOLhyphen"/>ſteries which are expreſs'd in the Scriptures, ſhe comes in the next place to obſerve
+<pb n="64" facs="tcp:105501:36"/> whether thoſe things leſs myſterious in the Scrip<g ref="char:EOLhyphen"/>tures, be not alſo written in the Book of Nature. In the holy Scriptures, which are the written Word of God, the Soul conceives her ſelf chiefly concerned, as a rational creature: for there is no other creature in the whole world, except man a<g ref="char:EOLhyphen"/>lone, to whom the Scrip<g ref="char:EOLhyphen"/>tures do properly belong: before whom God hath ſet the way of good and e<g ref="char:EOLhyphen"/>vil, upon the onely account of rationality; having breath'd into him the breath of life, whereby he became a reaſonable Soul: although all other inferior creatures do owe continu<g ref="char:EOLhyphen"/>al praiſes to God for their being; whereupon, they
+<pb n="65" facs="tcp:105501:36"/> are commanded to obſerve the Sabbath, which is by God an appointed time of thanks to him for their Creation, wherein he is ſaid to have reſted; and is in the courſe of nature a pauſe, period, or full ſtop, wherein moſt actions do commonly terminate; ac<g ref="char:EOLhyphen"/>cording to the obſervation of <hi>Philo Judaeus,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. I ſay, although all Creatures do owe conti<g ref="char:EOLhyphen"/>nual praiſes to God for their Creation, and do in an obſcure manner perform their ſervice therein, having alſo certain ſecret Sabba<g ref="char:EOLhyphen"/>tiſms in all their actions; yet man, in a more eſpecial and particular manner hath an Ingagement to perform
+<pb n="66" facs="tcp:105501:37"/> an immediate ſervice to God, being the worlds high Prieſt, to offer ſacri<g ref="char:EOLhyphen"/>fice not onely for himſelf, but alſo for all other Crea<g ref="char:EOLhyphen"/>tures which are ſubjected under him; according to that of Mr. <hi>George Herbert,</hi> ſometimes Oratour of the Univerſity of <hi>Cambridge:</hi>
+               <q>
+                  <l>Man is the Worlds High Prieſt; he doth preſent</l>
+                  <l>The Sacrifice for all, while they below</l>
+                  <l>Unto the Service mutter an aſſent,</l>
+                  <l>Such as Springs uſe that fall, and Winds that blow.</l>
+               </q>
+            </p>
+            <p>Man, who is the High Prieſt of the World, hath the Scripture as a Light to direct and guide his Soul
+<pb n="67" facs="tcp:105501:37"/> to the high Altar, the Word, <hi>who is alſo the High Prieſt of man-kinde.</hi>
+            </p>
+            <p>Now it is neceſſary, that there be ſome proportion betwixt the Light and the Eye; otherwiſe the Light would rather dazle and blinde the Eye, then help it in its performance. If the Holy Scripture were not rational, and in ſome ſort proportionable to the humane intellect, it might rather induce incredulity, then enlighten the under<g ref="char:EOLhyphen"/>ſtanding. Thus doth the Soul diſcourſe. Then doth ſhe attempt by reaſon, to underſtand the written Word of God: conceiving it a contradiction, that any thing ſhould be preſented, as an adequate object of
+<pb n="68" facs="tcp:105501:38"/> the humane intellect, not under the notion of ratio<g ref="char:EOLhyphen"/>nality.</p>
+            <p>Herein ſhe firſt obſerves the goodly order of the Creation, according to the deſcription of <hi>Moſes,</hi> to be much conformable to Reaſon. As, that the Ele<g ref="char:EOLhyphen"/>ments ſhould be created before mixt bodies; and, that out of the Elements there ſhould be procreated all mix'd bodies in ſuch an order and method, as doth correſpond the logical <hi>ſe<g ref="char:EOLhyphen"/>ries</hi> in the predicament of ſubſtance: that Creatures more perfect ſhould re<g ref="char:EOLhyphen"/>quire greater time for their production out of the Earth, then Creatures more imperfect: That firſt ve<g ref="char:EOLhyphen"/>getables ſhould be pro<g ref="char:EOLhyphen"/>duced,
+<pb n="69" facs="tcp:105501:38"/> then living Crea<g ref="char:EOLhyphen"/>tures, <hi>viz.</hi> thoſe indued with ſenſe; &amp; laſt of all Man, who is the moſt perfect of all living Creatures: and that in the Creation of each <hi>ſpecies,</hi> there ſhould be alſo a gradual aſcent anſwera<g ref="char:EOLhyphen"/>ble to the ſcale of Nature: as of Animals, firſt the Fiſh, then the Fowl, after<g ref="char:EOLhyphen"/>wards, the four-footed Beaſts: and ſo of Vegeta<g ref="char:EOLhyphen"/>bles, firſt Graſs and Herbs, then Shrubs and Trees. That Man ſhould be at firſt made up of ſuch matter contained in the Bowels of the Earth, as is the Em<g ref="char:EOLhyphen"/>bryon in the Wombe, <hi>viz.</hi> of red ſlime, which is ana<g ref="char:EOLhyphen"/>logous to Blood, the thin<g ref="char:EOLhyphen"/>ner parts whereof are, by vertue of its innate heat,
+<pb n="70" facs="tcp:105501:39"/> reſolved into Spirits; whilſt the groſſer are con<g ref="char:EOLhyphen"/>verted into fleſh: and ſo all the diverſity of parts made up anſwerable to the hete<g ref="char:EOLhyphen"/>rogeneity of the matter.</p>
+            <p>After the Heaven and the Earth were finiſhed, and all the Hoſt thereof, the Scriptures tell us, That God ſaw every thing which he had made, and behold it was very good. The very ſame we read in the Book of Nature. For Reaſon doth dictate unto us, that all things are good, not onely becauſe every thing in the whole world beareth ſome proportion or ſimilitude with God, who is the original of its being; but alſo becauſe there is no one thing in
+<pb n="71" facs="tcp:105501:39"/> the whole world which is not agreeable and conve<g ref="char:EOLhyphen"/>nient to ſome other thing. Wherefore ſeeing that goodneſs is defined to be the congruity of one thing with another, it follows that every thing in the world is good.</p>
+            <p>There was no written, po<g ref="char:EOLhyphen"/>ſitive, or Moral Law given for the ſpace of above two thouſand yeers after the Creation: then afterwards the Law was given by God unto <hi>Moſes,</hi> and from him delivered unto the Chil<g ref="char:EOLhyphen"/>dren of <hi>Iſrael.</hi> There was reaſon wherefore the Law ſhould be ſo long omitted; and afterwards there was reaſon where<g ref="char:EOLhyphen"/>fore it ſhould be then gi<g ref="char:EOLhyphen"/>ven. Why it was ſo long
+<pb n="72" facs="tcp:105501:40"/> omitted, may appear by the Contents thereof: for he that reads the Moral Law, and conſiders all the parti<g ref="char:EOLhyphen"/>culars therein, may ob<g ref="char:EOLhyphen"/>ſerve, that the main ſcope thereof, was to eſtabliſh the Children of <hi>Iſrael</hi> into a Commonwealth; and to preſerve the ſame Com<g ref="char:EOLhyphen"/>monwealth, by defending each man 's propriety: that ſo they might, as a pe<g ref="char:EOLhyphen"/>culiar people, comfortably ſerve the Lord, who had delivered them out of cap<g ref="char:EOLhyphen"/>tivity. Now there are three things required to a Commonwealth: firſt, that there be a competent number of people; ſe<g ref="char:EOLhyphen"/>condly, that this people be entire and free, neither ſcattered at a diſtance, nor
+<pb n="73" facs="tcp:105501:40"/> intermix'd with other peo<g ref="char:EOLhyphen"/>ple; and thirdly, that there be propriety of poſ<g ref="char:EOLhyphen"/>ſeſſions, whereby one man may call ſomthing his own which is not another mans. Before the Poſterity of <hi>Ja<g ref="char:EOLhyphen"/>cob</hi> had theſe three Condi<g ref="char:EOLhyphen"/>tions, it was impoſſible they ſhould be capable of that whole Law which was afterward given unto them. Although, when they were in <hi>Egypt</hi> they did increaſe, and became numerous; yet they could have no Law unto themſelves, in regard they were not of them<g ref="char:EOLhyphen"/>ſelves a free People, but were ſtrangers in the Land of <hi>Egypt,</hi> and conſequent<g ref="char:EOLhyphen"/>ly Servants unto the <hi>Egyp<g ref="char:EOLhyphen"/>tians,</hi> who had Task Ma<g ref="char:EOLhyphen"/>ſters over them, as the
+<pb n="74" facs="tcp:105501:41"/> Scriptures do inform us.</p>
+            <p>And afterwards, whe<g ref="char:cmbAbbrStroke">̄</g> they were delivered from the Egyptian ſlavery, although they were, in the wilder<g ref="char:EOLhyphen"/>neſs, not onely numerous, but alſo a free People, and entire to themſelves; yet the whole Law could in no wiſe belong unto them, be<g ref="char:EOLhyphen"/>cauſe they had no proprie<g ref="char:EOLhyphen"/>ty of poſſeſſions.</p>
+            <p>To impoſe a Curſe upon him that ſhould remove his Neighbours Land-mark, would have been non<g ref="char:EOLhyphen"/>ſenſe to the Children of <hi>Iſrael</hi> before they had marked out their Lands, and taken to themſelves proper poſſeſſions: and ſo to impoſe proportionable penalties, if peradventure their Oxen ſhould hurt or
+<pb n="75" facs="tcp:105501:41"/> gore one another, or hurt a man; would have been abſurd, before they had a<g ref="char:EOLhyphen"/>ny Oxen belonging unto them. By this may appear the neceſſity wherefore the Law was ſo long omit<g ref="char:EOLhyphen"/>ted.</p>
+            <p>Now although the Law was written whilſt the Children of <hi>Iſrael</hi> were yet in the Wilderneſs; yet it could not be in force until their Common-wealth be<g ref="char:EOLhyphen"/>gan; but ſo ſoon as they had a Common-wealth, they could not poſſibly be without a Law; for the Law is the Soul thereof, which doth both conſtitute and preſerve the ſame: whereby their confuſed multitude was digeſted in<g ref="char:EOLhyphen"/>to a Re-publick; and their
+<pb n="76" facs="tcp:105501:42"/> Re-publick was continued entire without diviſion or confuſion. The multitude indeed might have been continued entire, without ſo much circumſtance of Law, whilſt it did ſubſiſt as an Army, and was pre<g ref="char:EOLhyphen"/>ſerved by one common food, <hi>Manna,</hi> which did coſt them onely the taking up; yet could it not poſ<g ref="char:EOLhyphen"/>ſibly have ſubſiſted as a Common-wealth, wherein there is propriety of poſ<g ref="char:EOLhyphen"/>ſeſſions, without the Law, which doth, by defending each mans propriety, pre<g ref="char:EOLhyphen"/>ſerve the whole Common-wealth in the ſame ſtate and condition wherein it was firſt eſtabliſhed.</p>
+            <p>If we look into the Law, we ſhall finde it to be no<g ref="char:EOLhyphen"/>thing
+<pb n="77" facs="tcp:105501:42"/> elſe but a Syſteme of rational precepts, com<g ref="char:EOLhyphen"/>manding or forbidding upon ſuch proportionable penalties or rewards as are agreeable to the dictate of Nature, or the Law of Rea<g ref="char:EOLhyphen"/>ſon. Here we have an Eye for an Eye, and a Tooth for a Tooth, <hi>&amp;c.</hi> Double reſti<g ref="char:EOLhyphen"/>tution is injoyned for Theft; and Murther is forbidden upon penalty of Death. And in like man<g ref="char:EOLhyphen"/>ner for Treſpaſſes com<g ref="char:EOLhyphen"/>mitted, we finde in the Law ſuch rational proceed<g ref="char:EOLhyphen"/>ings, as honeſt and under<g ref="char:EOLhyphen"/>ſtanding men would con<g ref="char:EOLhyphen"/>trive for the due adminiſtra<g ref="char:EOLhyphen"/>tion of a Common-wealth: as for example: <hi>If men ſtrive together and one ſmite ano<g ref="char:EOLhyphen"/>ther with a ſtone, or with his
+<pb n="78" facs="tcp:105501:43"/> fiſt, and he die not, but keep<g ref="char:EOLhyphen"/>eth his bed: if he riſe again, &amp; walk abroad upon his ſtaff, then ſhall he that ſmote him be quit: onely he ſhall pay for the loſs of his time, and ſhall cauſe him to be thorowly healed,</hi> Exod. 21.18, 19. <hi>If a man ſhall cauſe a field or vine<g ref="char:EOLhyphen"/>yard to be eaten, and ſhall put in his beaſt, and ſhall feed in another man's field; of the beſt of his own field, and of the beſt of his own vineyard ſhall he make reſtitution,</hi> Exod. 22<g ref="char:punc">▪</g> 6. Who can be ſo ignorant, as not to under<g ref="char:EOLhyphen"/>ſtan<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> this to be reaſon?</p>
+            <p>If we look into other Precepts of the Law, which do not concern any private controverſie be<g ref="char:EOLhyphen"/>twixt man and man, nor are related to the happi<g ref="char:EOLhyphen"/>neſs
+<pb n="79" facs="tcp:105501:43"/> of any particular Com<g ref="char:EOLhyphen"/>mon-wealth, but onely to the beatitude of mankind in general; we may obſerve the like rationality: as for example: <hi>Thou ſhalt not ſee thy Brother's Ox nor his Sheep go aſtray, and hide thy ſelf from them; thou ſhalt in any caſe bring them again unto thy Brother: and if thy Brother be not nigh unto thee, or if thou know him not, then thou ſhalt bring it unto thine own houſe, and it ſhall be with thee until thy Brother ſeek after it; and thou ſhalt reſtore it to him a<g ref="char:EOLhyphen"/>gain. In like manner thou ſhalt do with his Aſs,</hi> &amp;c. Deut 22.1, 2. <hi>Thou ſhalt neither vex a ſtranger, nor oppreſs him; for ye were ſtrangers in the Land of E<g ref="char:EOLhyphen"/>gypt.
+<pb n="78" facs="tcp:105501:44"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="79" facs="tcp:105501:44"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="80" facs="tcp:105501:45"/> Ye ſhall not afflict any widow or fatherleſs childe,</hi> Exod. 22.21, 22. Such-like Sentences of Humanity and Charity, are ſo ſweetly in<g ref="char:EOLhyphen"/>termix'd with the other precepts of Equity thorow<g ref="char:EOLhyphen"/>out the whole Law, that the Law of Nature, and the Moral Law, ſeem both to intimate the ſame thing, and both to be ſummed up in this rational Precept: <hi>Quod tibi non vis fieri, alteri ne feceris: Do not thou un<g ref="char:EOLhyphen"/>to another, that which thou wouldſt not have another do unto thee.</hi> As concerning thoſe Meats which are for<g ref="char:EOLhyphen"/>bidden in the Law to be eaten, they are alſo ſuch, moſt of them, as even Na<g ref="char:EOLhyphen"/>ture would admoniſh all people to refrain; of which
+<pb n="81" facs="tcp:105501:45"/> ſort are Eagles, Ravens, Kites, Hawks, Owls, Bats, Cuckows, <hi>&amp;c.</hi> and on the contrary, thoſe Meats which are tolerated, are, for certain Phyſical Rea<g ref="char:EOLhyphen"/>ſons, the wholeſomeſt food; and alſo by natural inſtinct are ſuggeſted unto mankinde as eſculent: of which ſort are the Ox, the Sheep, the Goat, the Hart, the Ro-Buck, the Fallow Deer, the Wilde Goat, <hi>&amp;c.</hi>
+            </p>
+            <p>Some may object, That if the Moral Law be the ſame in effect with the Law of Nature, the ſaid Moral Law muſt neceſſarily have been obſerved by other Nations before it was given by <hi>Moſes</hi> unto the Children of <hi>Iſrael.</hi> To which I anſwer
+<pb n="82" facs="tcp:105501:46"/> affirmatively: for it is not hard to prove by Scripture, that almoſt every punctil<g ref="char:EOLhyphen"/>lo of the ſame Law, though not as poſitive but as natu<g ref="char:EOLhyphen"/>ral, was obſerved before it was given unto <hi>Jacob</hi>'s Po<g ref="char:EOLhyphen"/>ſterity.</p>
+            <p>Murther was puniſhable by the Egyptian Laws, as may appear by the ſecond of <hi>Exodus,</hi> where we read that <hi>Moſes</hi> looked this way and that way, and when he ſaw that there was no man, he ſlew an Egyptian which was ſmiting an Hebrew, one of his Brethren: and ſo ſoon as he had done it, ex<g ref="char:EOLhyphen"/>pecting nothing but death if he had been found out, he hid himſelf in the ſand for his own ſafety: and afterwards, when <hi>Pharaoh</hi>
+               <pb n="83" facs="tcp:105501:46"/> heard of it, he fled from <hi>Pharaoh,</hi> out of <hi>Egypt,</hi> into the Land of <hi>Midian,</hi> be<g ref="char:EOLhyphen"/>cauſe. <hi>Pharaoh</hi> ſought after him; being the chief Ma<g ref="char:EOLhyphen"/>giſtrate to puniſh ſuch-like offenders.</p>
+            <p>Adultery was alſo ac<g ref="char:EOLhyphen"/>counted an offence as hai<g ref="char:EOLhyphen"/>nous before the Law, as it was afterwards; which is manifeſt by the ſtory of <hi>Abraham</hi> and <hi>Abime<g ref="char:EOLhyphen"/>lech</hi> in the twentieth of <hi>Geneſis,</hi> where we read, That <hi>Abraham</hi> ſuppoſing that the fear of God was not in the Land of <hi>Gerar,</hi> denied his Wife becauſe he knew that Adultery was ſo odious even in thoſe places where the fear of God was not<g ref="char:punc">▪</g> that they would rather ſlay him, and then
+<pb n="84" facs="tcp:105501:47"/> take his Wife, then take his Wife he being alive: they would rather do Murther, then commit A<g ref="char:EOLhyphen"/>dultery.</p>
+            <p>Another example we have in <hi>Gen.</hi> 39. of <hi>Joſeph,</hi> who would by no means ſin againſt God in com<g ref="char:EOLhyphen"/>mitting Adultery with <hi>Potiphar's</hi> Wife: although there was no Moral or Po<g ref="char:EOLhyphen"/>ſitive Law to make Adul<g ref="char:EOLhyphen"/>tery a ſin; but onely the Law of Nature, or the Rule of right Reaſon.</p>
+            <p>How ſeverely ſimple Fornication was puniſhed before the Law, by <hi>Jacob</hi>'s two Sons <hi>Simeon</hi> and <hi>Levi,</hi> we may read in the 22 of <hi>Geneſis.</hi>
+            </p>
+            <p>That Theft was made a Crime by the Law of Na<g ref="char:EOLhyphen"/>ture,
+<pb n="85" facs="tcp:105501:47"/> may be collected out of <hi>Gen.</hi> 44. from the paſſage of <hi>Joſeph</hi> and his Brethren concerning the Cup which was put into <hi>Benjamin</hi>'s ſack, <hi>&amp;c.</hi>
+            </p>
+            <p>Add to all theſe, <hi>Jacob</hi>'s vow of the tenth of all he had unto God, and his obedience to his Father and Mother, which is in the 28 of <hi>Geneſis.</hi> By all which it is evident, that the ſame Law which was afterwards given by <hi>Moſes</hi> unto the <hi>Iſraelites,</hi> had been anciently practiſed both by the Hebrews and the Egyptians: which was at firſt written in the Heart of Man, and was con<g ref="char:EOLhyphen"/>natural unto him; but, by degrees being obliterated, &amp; in proceſs of time almoſt
+<pb n="86" facs="tcp:105501:48"/> wholly defaced, it was afterwards engraven upon Tables of Stone; where<g ref="char:EOLhyphen"/>by it did change its pro<g ref="char:EOLhyphen"/>perty: being before, the Law of Nature, which did ſweetly incline, and was more arbitrary; but afterwards, it became a poſitive or Moral Law, ſtrictly commanding, and leaving without excuſe. Thus much ſhall ſuffice to have ſpoken concerning the Precepts of Holy Writ. I come now in the laſt place to demon<g ref="char:EOLhyphen"/>ſtrate the rationality of Miracles.</p>
+            <p>A Miracle is an effect produced out of the ordinary courſe of Na<g ref="char:EOLhyphen"/>ture.</p>
+            <p>From the notion we
+<pb n="87" facs="tcp:105501:48"/> have of a Miracle, or from its definition, we may collect, that it is not in the power of any Crea<g ref="char:EOLhyphen"/>ture to perform a Miracle: for the courſe of Nature is a Decree gone out from God; which Decree it is impoſſible that any ſhould have power to alter, but he that made i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>: ſo that the exhibition of a Miracle, is a rati<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nal de<g ref="char:EOLhyphen"/>monſtration, that he that performs the ſame i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſent of God, and hath hi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> po<g ref="char:EOLhyphen"/>wer from above. From the obſerva<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ion of the act, we come to the know<g ref="char:EOLhyphen"/>ledge <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f the agent. We ſay, That to produce ſuch or <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uch an effect, immedi<g ref="char:EOLhyphen"/>ately to turn Water into Wine, or the like, is an
+<pb n="88" facs="tcp:105501:49"/> action not natural, but ſu<g ref="char:EOLhyphen"/>pernatural: wherefore the agent cannot poſſibly be any of the Creatures, but muſt neceſſarily be the Creator. Now when the Soul is convinced in Rea<g ref="char:EOLhyphen"/>ſon, that God is the A<g ref="char:EOLhyphen"/>g<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nt of Miracles, a Mira<g ref="char:EOLhyphen"/>cle ſeemeth not ſtrange unto her. For, ſaith ſhe, He that in the beginning, by hovering upon the Waters, could hatch them into Elements, and af<g ref="char:EOLhyphen"/>terwards could gi e power and deſire to the El<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ments to ſy<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>gi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e and copulate, whereby they did gene<g ref="char:EOLhyphen"/>rate a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l other Creatures: H<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that without materials could erect ſo ſtately a Fabrick a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> is this Univerſe, may very well in Reaſon
+<pb n="89" facs="tcp:105501:49"/> be conceived to be able to perform ſuch-like actions as are recorded in Scripture by the names of Mira<g ref="char:EOLhyphen"/>cles.</p>
+            <p>By this way of argu<g ref="char:EOLhyphen"/>mentation, which is cal<g ref="char:EOLhyphen"/>led Regreſſion, even Mi<g ref="char:EOLhyphen"/>racles do melt into Reaſon, and do become ſo fami<g ref="char:EOLhyphen"/>liar to the rational Soul, that when ſhe doth con<g ref="char:EOLhyphen"/>ſider the circumſtances thereof, <hi>viz.</hi> firſt, that all Miracles are performed by the Finger of God; and ſecondly, that there is no Miracle recorded in Scripture which doth im<g ref="char:EOLhyphen"/>ply a contradiction; ſhe ceaſeth to admire the ſame: but wondreth rather, that there ſhould be an Infidel left in the World, or any
+<pb n="90" facs="tcp:105501:50"/> Soul ſo dulled with ſenſu<g ref="char:EOLhyphen"/>ality, or deaded with pre<g ref="char:EOLhyphen"/>judice, as to loſe her Pre<g ref="char:EOLhyphen"/>rogative in not diſcerning the Truths of Chriſtian Religion with the Eye of Reaſon.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="to_the_reader">
+            <pb facs="tcp:105501:50"/>
+            <head>Literato Lectori.</head>
+            <p>
+               <seg rend="decorInit">I</seg>Nterrogas for<g ref="char:EOLhyphen"/>ſan, Lectorum Literatiſſime, cujus ergo publicitus e<g ref="char:EOLhyphen"/>derem nauci<g ref="char:EOLhyphen"/>pendulum iſthunc <hi>De Signa<g ref="char:EOLhyphen"/>turis</hi> Tractatulum: quaſi ſagaciſſimos moderni ſeculi Medicos lateret quicquid eſt, in re Medicâ, aut notatu dig<g ref="char:EOLhyphen"/>num, aut obſervatu inſigne.</p>
+            <p>Nullus equidem eo inficias verſatiores eſſe nunc dierum omnes in polydaedalae Naturae latifundio, quam olim fuiſſe,
+<pb facs="tcp:105501:51"/> Imò lubens agnoſco nunc tandem eò culminis evaſiſſe Artes Scientiaſ<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan>: ut, ſi in hâc mundi ſenectute in vivis ſupereſſent qui in Infantiâ ejus vitam traduxerunt, mira<g ref="char:EOLhyphen"/>rentur valdopere <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> prae omnibus autem, non medio<g ref="char:EOLhyphen"/>cre additamentum ſortita eſt Medicina, Scientiis, ex quo cumprimis Aeſculapius divi honorem adeptus eſt tradendo confuſa quaedam, &amp; incerta, procul methodo, curandi Morbos programmata. O quam, tunc temporis, tenel<g ref="char:EOLhyphen"/>lula, &amp; in cunis vagiens, Medicina, impos erat peragen<g ref="char:EOLhyphen"/>di e<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> quae indies hodie pera<g ref="char:EOLhyphen"/>gu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tur! plurima <hi>Galenus</hi> &amp; <hi>Hippocrates</hi> habuêre com<g ref="char:EOLhyphen"/>perta quae praecedentibus non nota fuerunt: &amp; multa ſa<g ref="char:EOLhyphen"/>puêre
+<pb facs="tcp:105501:51"/> Succeſſores eorum quae non innotuerunt illis. Nonnulla nobis pateſiunt quae proximum abhinc retrò ſeculum latuerunt. Verum enim verò, non eam adhuc Medicina tetigit perfectionis metam, ut ulterius perfici nequeat: ſed, ut ſenſim &amp; pedetentim Corpora humana vacillant indies &amp; labaſcunt; ita paulatim nova ſuppullu<g ref="char:EOLhyphen"/>lant, ad ſupplendos Naturae defectus, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</p>
+            <p>Sic viſum eſt Providentiae, cui mortalium neminem pe<g ref="char:EOLhyphen"/>nes eſt refragarier. Omnia quidem Naturae ſunt <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, ſed non nobis omnia. Circulum ſang<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>inis, novum illud chyli receptaculum, ductus lymphaticos, &amp; quic<g ref="char:EOLhyphen"/>quid eſt iſtiuſmod<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>; quicquid caſus reperit, aut ingenium
+<pb facs="tcp:105501:52"/> invenit, antiquitus Natura tenuit: eſtò quodlibet Na<g ref="char:EOLhyphen"/>turae munus ſuo tempore Mens humana perſentiſcit. Ad eundem planè modum Natura primitus indidit Cor<g ref="char:EOLhyphen"/>poribus ſimulachra quaedam, non frustra quidem, ſed ut ad vivum depingeret cui inſerviunt uſui, &amp; quibus pollent facultatibus. Na<g ref="char:EOLhyphen"/>tura primitus ſanxivit ut unumquod<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> Corpus ageret in ſubjectum ſibi Naturà proxi<g ref="char:EOLhyphen"/>mum.</p>
+            <p>Omnia Corpora ſemper habuerunt attractricem cum magnete communem, &amp; vice verſâ. Natura ſem<g ref="char:EOLhyphen"/>per fuit <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>; quo Nomine nunquam non potis erat indigitandi quomodo Edulia, quomodo pharmaca, quomodo venena vires ſuas
+<pb facs="tcp:105501:52"/> exerunt: viz. eodem ipſiſſi<g ref="char:EOLhyphen"/>mo modo, putà ſimilitudine quâdam ſubſtantiae inter a<g ref="char:EOLhyphen"/>gens &amp; ſubjectum.</p>
+            <p>Haec eſſe, &amp; ſemper fuiſſe, Naturae munera agnoſcimus; horum verò obſervamen quantulumcun<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> vocamus noſtrum: quod non inexperti ſcripſimus: quare idem tum Rationis, tum Experi<g ref="char:EOLhyphen"/>entiae ſpecillo audacter credi<g ref="char:EOLhyphen"/>mus.</p>
+            <p>Ad hanc poſteriorem quod attinet, quae j<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m pr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ma in lu<g ref="char:EOLhyphen"/>cem prodit, opellam: nemo aſ<g ref="char:EOLhyphen"/>ſerat Theologi magis intereſſe quam referre noſtrâ: Non enim Rationis extravaga<g ref="char:EOLhyphen"/>mur terminos. Quod ſi Ra<g ref="char:EOLhyphen"/>tio noſtra cum fide coincide<g ref="char:EOLhyphen"/>rit, nihil nobis imputandum eſſe ſperamus. Imò potius ſummae ſunt agendae D.O.M.
+<pb facs="tcp:105501:53"/> gratiae, qui Animam huma<g ref="char:EOLhyphen"/>nam tam ſplendide orna<g ref="char:EOLhyphen"/>vit &amp; i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſtruxit, ut tam Di<g ref="char:EOLhyphen"/>vinae quam humana ſapiendi par eſſet.</p>
+            <p>Hoc unicum, literate Lector, perpendas obſecro: <hi>ſc.</hi> aequè abſurdum eſſe Rationem <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> damnare, &amp; Ratio<g ref="char:EOLhyphen"/>nem improbandam eſſe Rati<g ref="char:EOLhyphen"/>one probare. Vale.</p>
+            <closer>
+               <signed>R. B.</signed>
+            </closer>
+         </div>
+         <div type="errata">
+            <pb facs="tcp:105501:53"/>
+            <head>ERRATA.</head>
+            <p>PAg. 7. l. 1. for <hi>amalgamated,</hi> read <hi>amalgamates.</hi> p. 10. l. 4. for <hi>and,</hi> read <hi>that.</hi> p. 24. l. 18. for <hi>acquainued,</hi> read <hi>acquainted.</hi> p. 30. l. 3. for <hi>Senicus,</hi> read <hi>Seincus.</hi> p. 51. l. 6. for <hi>Gatiopſis,</hi> read <hi>Ga<g ref="char:EOLhyphen"/>liopſis.</hi> p. 60. l. 23. for <hi>Figure from,</hi> read <hi>Figure proceed from.</hi> p. 61. l. 1. leave out <hi>Bodies.</hi>
+            </p>
+            <p>Page 5. l. 8. for <hi>mortum,</hi> read <hi>mortuum.</hi> p. 24. l. 20. for <hi>ſeparted,</hi> read <hi>ſeparated.</hi> p. 25. l. 11. for <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, read <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. p. 32. l. 19. (and in other places) for <hi>then,</hi> read <hi>than.</hi> p. 36. l. 6. for <hi>inviſible,</hi> read <hi>indiviſible.</hi> p. 58. l. 5. for <hi>aſſent,</hi> read <hi>aſcent.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
